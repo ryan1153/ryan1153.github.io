@@ -1,3 +1,3 @@
-> Your time is limited, so don’t waste it living someone else’s life. 
+> But some of us are looking at star.
 
-Hi, I am _@xiyuan
+Hi, I am _@Ryan
