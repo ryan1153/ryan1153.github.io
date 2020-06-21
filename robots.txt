@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /_includes/*
+Disallow: /_layouts/*
+Disallow: /_posts/*
+Disallow: /baidu*
+Disallow: /js/*
+Allow: /index.html
+
+
+sitemap: https://blog.xiyuan.ren/sitemap.xml
+sitemap: https://qinh.ren/sitemap.xml
