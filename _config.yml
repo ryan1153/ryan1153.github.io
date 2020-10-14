@@ -78,7 +78,8 @@ ga_domain: xiyuan.ren
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "But some of us are looking at the stars<br>我们都处境艰难,但有些人还在憧憬着未来"
+sidebar-about-description: "War does not determine who is right - only who is left.
+战争不决定谁对了，只决定谁留下了。"
 sidebar-avatar: /img/avatar-panda.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
